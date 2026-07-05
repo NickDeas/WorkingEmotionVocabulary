@@ -10,7 +10,7 @@ This repository contains code accompanying the paper ["Characterizing and Evalua
 
 Install the necessary packages from `requirements.txt` in your environment.
 
-Running `setup.sh` will download relevant files and make experiment scripts runnable. Code for replicating the three sets of experiments are included in `code/` with corresponding experiment configurations in `code/configs/full`. In particular, the main scripts for generating all model predictions and evaluation metrics can be run with the following commands:
+Running `setup.sh` will download the original MASIVE texts and make experiment scripts in `code/` runnable. Python files and bash scripts for replicating the three sets of experiments are included in `code/` with corresponding experiment configurations in `code/configs/full`. Access for some models (e.g., Llama-3.1) may be gated and require requests for access through Huggingface. The main scripts for generating all model predictions and evaluation metrics can be run with the following commands:
 __Identification__
 ```
 ./code/expression_preds.sh
