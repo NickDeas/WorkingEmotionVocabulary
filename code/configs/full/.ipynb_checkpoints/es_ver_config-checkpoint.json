@@ -1,0 +1,1 @@
+{"run_id": "full", "data_dir": "./data", "results_dir": "./results", "prompt_types": ["yn", "score"], "ks": [0], "language": "es"}

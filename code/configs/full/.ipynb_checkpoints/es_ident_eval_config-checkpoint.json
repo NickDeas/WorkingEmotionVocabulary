@@ -1,0 +1,1 @@
+{"run_id": "full", "data_dir": "./data", "results_dir": "./results", "embed_model": "bert-base-multilingual-uncased", "embed_device": 0, "language": "es", "batch_size": 1}

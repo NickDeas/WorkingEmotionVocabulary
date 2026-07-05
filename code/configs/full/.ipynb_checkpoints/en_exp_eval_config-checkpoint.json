@@ -1,0 +1,1 @@
+{"run_id": "full", "results_dir": "./results", "pred_model": "./models/en_random_mt5_large", "embed_model": "bert-base-multilingual-uncased", "pred_device": 0, "embed_device": 0, "language": "en", "batch_size": 3}
